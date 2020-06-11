@@ -1,0 +1,136 @@
+Log file open, 06/11/20 12:04:34
+LogMemory: Warning: Secure Allocation of 32 / 16 bytes [Mode: 1]
+LogPakFile: Display: Found Pak file ../../../Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 17 total threads with 1 sets of task threads.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogConfig: Reading last known user:  ''
+LogInit: Build: 10
+LogInit: Engine Version: 4.23.1-441589+++Ares-Core+release-01.01
+LogInit: Compatible Engine Version: 4.23.1-441589+++Ares-Core+release-01.01
+LogInit: Net CL: 441589
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 2700 Eight-Core Processor          , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun  8 2020 20:54:39
+LogInit: Compiled with Visual C++: 19.22.27905.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Ares-Core+release-01.01
+LogInit: Command Line: "../../../Engine/Binaries/Win64/CrashReportClient.exe" "C:/Users/super/AppData/Local/VALORANT/Saved/Crashes/UE4CC-Windows-A4D27A984897FB6A646E8CB465BB378D_0000" -Unattended -AppName=VALORANT -CrashGUID=UE4CC-Windows-A4D27A984897FB6A646E8CB465BB378D_0000 -DebugSymbols=..\..\..\Engine\Intermediate\Symbols -SentryProjectKey=ares-gameclient
+LogInit: Base Directory: C:/Riot Games/VALORANT/live/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Engine/Programs/CrashReportClient/Saved/Config/Windows/Engine.ini]
+[2020.06.11-10.04.34:545][  0]LogInit: Computer: DESKTOP-GOBILAU
+[2020.06.11-10.04.34:552][  0]LogInit: User: super
+[2020.06.11-10.04.34:552][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.06.11-10.04.34:552][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.11-10.04.34:552][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.11-10.04.34:552][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.11-10.04.34:552][  0]LogMemory: Process Physical Memory: 87.33 MB used, 87.34 MB peak
+[2020.06.11-10.04.34:552][  0]LogMemory: Process Virtual Memory: 117.07 MB used, 117.07 MB peak
+[2020.06.11-10.04.34:552][  0]LogMemory: Physical Memory: 6871.89 MB used,  9460.40 MB free, 16332.29 MB total
+[2020.06.11-10.04.34:552][  0]LogMemory: Virtual Memory: 4402.81 MB used,  134213328.00 MB free, 134217728.00 MB total
+[2020.06.11-10.04.34:559][  0]LogAssetRegistry: FAssetRegistry took 0.0000 seconds to start up
+[2020.06.11-10.04.34:559][  0]LogUObjectArray: 1102 objects as part of root set at end of initial load.
+[2020.06.11-10.04.34:559][  0]LogUObjectAllocator: 164400 out of 0 bytes used by permanent object pool.
+[2020.06.11-10.04.34:559][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.11-10.04.34:559][  0]LogInit: Using OS detected language (es-ES).
+[2020.06.11-10.04.34:559][  0]LogInit: Using OS detected locale (es-ES).
+[2020.06.11-10.04.34:559][  0]LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+[2020.06.11-10.04.34:559][  0]LogTextLocalizationManager: No localization for 'es-ES' exists, so 'en' will be used for the language.
+[2020.06.11-10.04.34:559][  0]LogInit: Warning: No paths for engine localization data were specifed in the engine configuration.
+[2020.06.11-10.04.34:559][  0]LogInit: Using OS detected language (es-ES).
+[2020.06.11-10.04.34:559][  0]LogInit: Using OS detected locale (es-ES).
+[2020.06.11-10.04.34:559][  0]LogTextLocalizationManager: No localization for 'es-ES' exists, so 'en' will be used for the language.
+[2020.06.11-10.04.34:559][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2020.06.11-10.04.34:560][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 1 prioritized culture(s) in 0.000119 seconds
+[2020.06.11-10.04.34:560][  0]CrashReportCoreLog: CrashReportClientVersion=1.0
+[2020.06.11-10.04.34:560][  0]CrashReportCoreLog: CrashReportReceiver disabled
+[2020.06.11-10.04.34:560][  0]CrashReportCoreLog: DataRouter disabled
+[2020.06.11-10.04.34:560][  0]LogCrashDebugHelper: DepotName: //Ares-Core/release-01.01
+[2020.06.11-10.04.34:560][  0]LogCrashDebugHelper: BuiltFromCL: 441589
+[2020.06.11-10.04.34:560][  0]LogCrashDebugHelper: EngineVersion: 4.23.1-441589+++Ares-Core+release-01.01
+[2020.06.11-10.04.34:560][  0]LogCrashDebugHelper: BuildVersion: 10
+[2020.06.11-10.04.34:560][  0]LogCrashDebugHelper: Warning: CrashDebugHelperConfig invalid
+[2020.06.11-10.04.34:560][  0]LogCrashDebugHelper: Warning: PDB Cache disabled
+[2020.06.11-10.04.34:582][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
+[2020.06.11-10.04.34:582][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
+[2020.06.11-10.04.34:598][  0]LogCrashDebugHelper: Successfully opened minidump: C:/Users/super/AppData/Local/VALORANT/Saved/Crashes/UE4CC-Windows-A4D27A984897FB6A646E8CB465BB378D_0000/UE4Minidump.dmp
+[2020.06.11-10.04.34:598][  0]LogCrashDebugHelper: Modules loaded: 180, unloaded: 0
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper: Symbol paths
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     SRV*..\..\..\Engine\Intermediate\Symbols
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\DbgHelp
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\ShooterGame\Binaries\Win64
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\CEF3\Win64
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper: Image paths
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     SRV*..\..\..\Engine\Intermediate\Symbols
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\DbgHelp
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\ShooterGame\Binaries\Win64
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\CEF3\Win64
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015
+[2020.06.11-10.04.34:604][  0]LogCrashDebugHelper:     C:\Riot Games\VALORANT\live\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64
+[2020.06.11-10.04.34:657][  0]LogCrashDebugHelper: Context size matches x64 sizeof( CONTEXT )
+[2020.06.11-10.04.34:659][  0]LogCrashDebugHelper: Running GetContextStackTrace()
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper: GetContextStackTrace() got 9 frames
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper:   0: VALORANT_Win64_Shipping
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper:   1: VALORANT_Win64_Shipping
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper:   2: VALORANT_Win64_Shipping
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper:   3: VALORANT_Win64_Shipping
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper:   4: VALORANT_Win64_Shipping
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper:   5: VALORANT_Win64_Shipping
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper:   6: VALORANT_Win64_Shipping
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper:   7: kernel32
+[2020.06.11-10.04.34:693][  0]LogCrashDebugHelper:   8: ntdll
+[2020.06.11-10.04.35:709][  0]CrashReportCoreLog: Writing Sentry event data: {"release":"01.01","tags":[["game_version","01.01.00.0441589"],["branch","++Ares-Core+release-01.01"],["changelist","441589"],["machine_id","8ee62a5e-0db0-4d13-80ea-bba1f0bb0381"],["configuration","Shipping"],["engine_mode","Game"],["game_state_name","BombGameState_C"],["engine_version","4.23.1-441589+++Ares-Core+release-01.01"],["platform_name","WindowsClient"],["rhi_name","D3D11"],["rhi_adapter_name","NVIDIA GeForce RTX 2060"],["rhi_adapter_user_driver","446.14"],["rhi_adapter_internal_driver","26.21.14.4614"],["rhi_adapter_driver_date","5-15-2020"],["rhi_feature_level","SM5"],["map_name","Triad"],["player_name","censored"],["local_player_character_name","Phoenix"]]}
+[2020.06.11-10.04.35:715][  0]CrashReportCoreLog: Got 4 pending files to upload from 'UE4CC-Windows-A4D27A984897FB6A646E8CB465BB378D_0000'
+[2020.06.11-10.04.35:715][  0]CrashReportCoreLog: State change from Ready to SendingFiles
+[2020.06.11-10.04.35:715][  0]CrashReportCoreLog: CompressAndSendData have 4 pending files
+[2020.06.11-10.04.35:715][  0]CrashReportCoreLog: CompressAndSendData compressing 142418 bytes ('C:/Users/super/AppData/Local/VALORANT/Saved/Crashes/UE4CC-Windows-A4D27A984897FB6A646E8CB465BB378D_0000/CrashContext.runtime-xml')
+[2020.06.11-10.04.35:716][  0]CrashReportCoreLog: CompressAndSendData compressing 519775 bytes ('C:/Users/super/AppData/Local/VALORANT/Saved/Crashes/UE4CC-Windows-A4D27A984897FB6A646E8CB465BB378D_0000/ShooterGame.log')
+[2020.06.11-10.04.35:717][  0]CrashReportCoreLog: CompressAndSendData compressing 1516135 bytes ('C:/Users/super/AppData/Local/VALORANT/Saved/Crashes/UE4CC-Windows-A4D27A984897FB6A646E8CB465BB378D_0000/UE4Minidump.dmp')
+[2020.06.11-10.04.35:717][  0]CrashReportCoreLog: CompressAndSendData compressing 584 bytes ('C:/Users/super/AppData/Local/VALORANT/Saved/Crashes/UE4CC-Windows-A4D27A984897FB6A646E8CB465BB378D_0000/__sentry-event')
+[2020.06.11-10.04.35:791][  0]LogInit: Using libcurl 7.55.1-DEV
+[2020.06.11-10.04.35:791][  0]LogInit:  - built for x86_64-pc-win32
+[2020.06.11-10.04.35:791][  0]LogInit:  - supports SSL with OpenSSL/1.0.2h
+[2020.06.11-10.04.35:791][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2020.06.11-10.04.35:791][  0]LogInit:  - other features:
+[2020.06.11-10.04.35:791][  0]LogInit:      CURL_VERSION_SSL
+[2020.06.11-10.04.35:791][  0]LogInit:      CURL_VERSION_LIBZ
+[2020.06.11-10.04.35:791][  0]LogInit:      CURL_VERSION_IPV6
+[2020.06.11-10.04.35:791][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2020.06.11-10.04.35:791][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2020.06.11-10.04.35:791][  0]LogInit:      CURL_VERSION_IDN
+[2020.06.11-10.04.35:791][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2020.06.11-10.04.35:791][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2020.06.11-10.04.35:791][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2020.06.11-10.04.35:791][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2020.06.11-10.04.35:791][  0]LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+[2020.06.11-10.04.35:791][  0]LogInit:  - LocalHostAddr = Default
+[2020.06.11-10.04.35:791][  0]LogInit:  - BufferSize = 65536
+[2020.06.11-10.04.35:792][  0]CrashReportCoreLog: Sending HTTP request: https://sentry.io/api/1449204/unreal/c4ab21b0d58e48df9144879cbadfda64/?AppID=CrashReporter&AppVersion=4.23.1-441589%2B%2B%2BAres-Core%2Brelease-01.01&AppEnvironment=Release&UploadType=crashreports&UserID=d44924f1a9505999a96002542b851367%7C%7C8ee62a5e-0db0-4d13-80ea-bba1f0bb0381
+[2020.06.11-10.04.37:050][  0]CrashReportCoreLog: OnProcessRequestComplete(), State=SendingFiles bSucceeded=1
+[2020.06.11-10.04.37:061][  0]CrashReportCoreLog: Sentry event URL: http://sentry.io/organizations/riotgames/issues/?project=1449204&query=08d3f65b-1eab-4c3c-9bb6-2f4eacc29bf8
+[2020.06.11-10.04.37:062][  0]CrashReportCoreLog: State change from SendingFiles to SendingFiles
+[2020.06.11-10.04.37:062][  0]CrashReportCoreLog: All uploads done
+[2020.06.11-10.04.37:062][  0]CrashReportCoreLog: State change from SendingFiles to Finished
+[2020.06.11-10.04.37:731][  0]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.06.11-10.04.37:763][  0]CrashReportCoreLog: Final state (Receiver) = Finished
+[2020.06.11-10.04.37:763][  0]CrashReportCoreLog: Final state (Receiver) = Unknown UploadState value
+[2020.06.11-10.04.37:763][  0]LogExit: Preparing to exit.
+[2020.06.11-10.04.37:764][  0]LogExit: Object subsystem successfully closed.
+[2020.06.11-10.04.37:766][  0]LogModuleManager: Shutting down and abandoning module HTTP (14)
+[2020.06.11-10.04.37:780][  0]LogModuleManager: Shutting down and abandoning module SSL (13)
+[2020.06.11-10.04.37:781][  0]LogModuleManager: Shutting down and abandoning module CrashDebugHelper (10)
+[2020.06.11-10.04.37:781][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (8)
+[2020.06.11-10.04.37:781][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.11-10.04.37:781][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.11-10.04.37:782][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.11-10.04.37:782][  0]LogExit: Exiting.
+[2020.06.11-10.04.37:800][  0]Log file closed, 06/11/20 12:04:37
